@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Sieve_Of_Eratosthenes/Sieve_Of_Eratosthenes.vcxproj" />
+  <Project Path="Sieve_Of_Eratosthenes/Sieve_Of_Eratosthenes.vcxproj" Id="908f3c76-d8a2-48da-9e6a-93be908fcaa1" />
 </Solution>
